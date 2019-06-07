@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Camelcase
+public class Camelcase
 {  
   public static void main(String args[])
   {
